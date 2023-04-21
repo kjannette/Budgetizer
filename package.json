@@ -1,0 +1,23 @@
+{
+  "name": "budgetize",
+  "version": "1.0.0",
+  "description": "Simple monthly budget calculator",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjannette/Budgetize.git"
+  },
+  "author": "SJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjannette/Budgetize/issues"
+  },
+  "homepage": "https://github.com/kjannette/Budgetize#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
